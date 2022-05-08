@@ -23,8 +23,10 @@ namespace UploaderService.UploadOptionsProcessors
 
         public void Process(IUploadFileOption uploadOptions, ref FileWriterOptions writerOptions)
         {
-            var path = _pathHandler.CombineRootAndSubDirectories(uploadOptions.RootDirectory,
-                uploadOptions.SubDirectories);
+            //var path = _pathHandler.CombineRootAndSubDirectories(uploadOptions.RootDirectory,
+            //    uploadOptions.SubDirectories);
+
+            var path = _pathHandler.MakePath(uploadOptions.DirectoryMaker);
 
             if (uploadOptions.IsDividedByFormat)
             {

@@ -1,11 +1,11 @@
-D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.GeneratedMSBuildEditorConfig.editorconfig
-D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.AssemblyInfoInputs.cache
-D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.AssemblyInfo.cs
-D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.csproj.CoreCompileInputs.cache
 D:\Nugets\Uploader\UploaderService\bin\Debug\net5.0\UploaderService.deps.json
 D:\Nugets\Uploader\UploaderService\bin\Debug\net5.0\UploaderService.dll
 D:\Nugets\Uploader\UploaderService\bin\Debug\net5.0\ref\UploaderService.dll
 D:\Nugets\Uploader\UploaderService\bin\Debug\net5.0\UploaderService.pdb
+D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.AssemblyInfoInputs.cache
+D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.AssemblyInfo.cs
+D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.csproj.CoreCompileInputs.cache
 D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.dll
 D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\ref\UploaderService.dll
 D:\Nugets\Uploader\UploaderService\obj\Debug\net5.0\UploaderService.pdb

@@ -1,8 +1,3 @@
-D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.GeneratedMSBuildEditorConfig.editorconfig
-D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.AssemblyInfoInputs.cache
-D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.AssemblyInfo.cs
-D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.csproj.CoreCompileInputs.cache
-D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.MvcApplicationPartsAssemblyInfo.cache
 D:\Nugets\Uploader\Uploader\bin\Debug\net5.0\appsettings.Development.json
 D:\Nugets\Uploader\Uploader\bin\Debug\net5.0\appsettings.json
 D:\Nugets\Uploader\Uploader\bin\Debug\net5.0\Uploader.exe
@@ -22,7 +17,12 @@ D:\Nugets\Uploader\Uploader\bin\Debug\net5.0\System.IO.Pipelines.dll
 D:\Nugets\Uploader\Uploader\bin\Debug\net5.0\UploaderService.dll
 D:\Nugets\Uploader\Uploader\bin\Debug\net5.0\UploaderService.pdb
 D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.csproj.AssemblyReference.cache
+D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.AssemblyInfoInputs.cache
+D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.AssemblyInfo.cs
+D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.csproj.CoreCompileInputs.cache
 D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.MvcApplicationPartsAssemblyInfo.cs
+D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\Uploader.MvcApplicationPartsAssemblyInfo.cache
 D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\staticwebassets\Uploader.StaticWebAssets.Manifest.cache
 D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\staticwebassets\Uploader.StaticWebAssets.xml
 D:\Nugets\Uploader\Uploader\obj\Debug\net5.0\scopedcss\bundle\Uploader.styles.css

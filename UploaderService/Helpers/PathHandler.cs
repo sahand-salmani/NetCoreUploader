@@ -20,12 +20,12 @@ namespace UploaderService.Helpers
 
         public string GetAssetsFolder()
         {
-            
             return _hostingEnvironment.WebRootPath;
         }
     }
     public interface IPathHandler
     {
+        string MakePath(string directory);
         string CombineRootAndDirectory(string directory);
         string CombineRootAndSubDirectories(string root, List<string> subDirectories);
     }
@@ -37,6 +37,12 @@ namespace UploaderService.Helpers
         public PathHandler(IPathFinder pathFinder)
         {
             _pathFinder = pathFinder;
+        }
+
+        public string MakePath(string directory)
+        {
+            var assets = _pathFinder.GetAssetsFolder();
+            return Path.Combine(assets, directory);
         }
 
         public string CombineRootAndDirectory(string directory)

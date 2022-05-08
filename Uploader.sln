@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uploader", "Uploader\Uploader.csproj", "{FD99BD93-DC82-4BB6-B16E-297A28CF4414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uploader", "Uploader\Uploader.csproj", "{FD99BD93-DC82-4BB6-B16E-297A28CF4414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploaderService", "UploaderService\UploaderService.csproj", "{E0EC275E-CD52-4C8F-92DC-584D8C93EBA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UploaderService", "UploaderService\UploaderService.csproj", "{E0EC275E-CD52-4C8F-92DC-584D8C93EBA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

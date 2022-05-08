@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using UploaderService.Client;
+using UploaderService.Helpers;
 
 namespace Uploader.Controllers.v1
 {
@@ -27,8 +28,8 @@ namespace Uploader.Controllers.v1
         {
             var result = await _uploadHandler.UploadFile(file, option =>
             {
-                option.RootDirectory = string.Empty;
-                option.IsChangingNameAllowed = false;
+                option.DirectoryMaker = DirectoryFactory.MakeDirectory("Document", "Anees", "CV");
+                option.IsChangingNameAllowed = true;
                 option.MaxAllowedSizeInKb = 100;
             });
 

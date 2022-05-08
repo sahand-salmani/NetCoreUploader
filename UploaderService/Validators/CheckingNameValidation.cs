@@ -29,7 +29,8 @@ namespace UploaderService.Validators
                 };
             }
 
-            var path = _pathHandler.CombineRootAndSubDirectories(options.RootDirectory, options.SubDirectories);
+            //var path = _pathHandler.CombineRootAndSubDirectories(options.RootDirectory, options.SubDirectories);
+            var path = _pathHandler.MakePath(options.DirectoryMaker);
 
             if (options.IsDividedByFormat)
             {
